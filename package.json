@@ -1,0 +1,28 @@
+{
+  "name": "acme",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.27",
+    "@fortawesome/free-solid-svg-icons": "5.7.2",
+    "@fortawesome/react-fontawesome": "0.1.4",
+    "antd": "3.22.0",
+    "axios": "0.16.1",
+    "chart.js": "2.6.0",
+    "pdfmake": "git+https://github.com/bpampuch/pdfmake.git#0.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-intl": "^2.3.0",
+    "react-router-dom": "^4.1.1",
+    "sweetalert-react": "^0.4.10"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
