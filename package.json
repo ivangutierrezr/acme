@@ -8,7 +8,7 @@
     "@fortawesome/react-fontawesome": "0.1.4",
     "antd": "3.22.0",
     "axios": "0.16.1",
-    "chart.js": "2.6.0",
+    "chart.js": "2.9.4",
     "pdfmake": "git+https://github.com/bpampuch/pdfmake.git#0.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
